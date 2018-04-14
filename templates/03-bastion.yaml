@@ -209,7 +209,7 @@ Mappings:
     sa-east-1:
       AMI: ami-286f2a44
     us-east-1:
-      AMI: ami-55ef662f
+      AMI: ami-021cf904f9f86d094
     us-east-2:
       AMI: ami-15e9c770
     us-west-1:
